@@ -1,1 +1,1 @@
-This is my repo for implementation of ml concepts and proj from scratch :)
+ML proj from scratch

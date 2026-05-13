@@ -1,0 +1,3 @@
+Day 1 :
+    1. Dataset Link : https://fi.ee.tsinghua.edu.cn/appusage/  (Tsinghua App Usage Dataset, follow all details mentioned on the provided link)
+    2. 

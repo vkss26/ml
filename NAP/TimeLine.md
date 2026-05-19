@@ -1,26 +1,27 @@
-| Day    | Main Goal                                       | Start Date | End Date |
-| ------ | ----------------------------------------------- |----------- | ---------|
-| Day 1  | Dataset preprocessing and session construction  | 12/05      |          |
-| Day 2  | Build directed session graphs                   | 12/05      |          |
-| Day 3  | Implement GGNN from scratch                     | 12/05      |          |
-| Day 4  | Implement multi-head self-attention             | 12/05      |          |
-| Day 5  | Complete temporal feature evolution module      | 12/05      |          |
-| Day 6  | Build user-app bipartite graph                  | 12/05      |          |
-| Day 7  | Implement GCN from scratch                      | 12/05      |          |
-| Day 8  | Add self-attention to personalized module       | 12/05      |          |
-| Day 9  | Complete personalized feature extraction module | 12/05      |          |
-| Day 10 | Implement feature fusion module                 | 12/05      |          |
-| Day 11 | Implement prediction layer                      | 12/05      |          |
-| Day 12 | Implement loss function and optimizer           | 12/05      |          |
-| Day 13 | Build complete training pipeline                | 12/05      |          |
-| Day 14 | Implement evaluation metrics                    | 12/05      |          |
-| Day 15 | Train and validate full model                   | 12/05      |          |
-| Day 16 | Implement baseline models                       | 12/05      |          |
-| Day 17 | Perform debugging and tensor validation         | 12/05      |          |
-| Day 18 | Conduct ablation studies                        | 12/05      |          |
-| Day 19 | Hyperparameter tuning                           | 12/05      |          |
-| Day 20 | Reproduce paper results                         | 12/05      |          |
-| Day 21 | Refactor and finalize codebase                  | 12/05      |          |
+| Day    | Main Goal                                       |
+| ------ | ----------------------------------------------- |
+| Day 1  | Dataset preprocessing and session construction  |
+| Day 2  | Build directed session graphs                   |
+| Day 3  | Implement GGNN from scratch                     |
+| Day 4  | Implement multi-head self-attention             |
+| Day 5  | Complete temporal feature evolution module      |
+| Day 6  | Build user-app bipartite graph                  |
+| Day 7  | Implement GCN from scratch                      |
+| Day 8  | Add self-attention to personalized module       |
+| Day 9  | Complete personalized feature extraction module |
+| Day 10 | Implement feature fusion module                 |
+| Day 11 | Implement prediction layer                      |
+| Day 12 | Implement loss function and optimizer           |
+| Day 13 | Build complete training pipeline                |
+| Day 14 | Implement evaluation metrics                    |
+| Day 15 | Train and validate full model                   |
+| Day 16 | Implement baseline models                       |
+| Day 17 | Perform debugging and tensor validation         |
+| Day 18 | Conduct ablation studies                        |
+| Day 19 | Hyperparameter tuning                           |
+| Day 20 | Reproduce paper results                         |
+| Day 21 | Refactor and finalize codebase                  |
+
 
 
 This paper is actually a **full research pipeline**, not just “implement one model.”
